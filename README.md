@@ -1,6 +1,6 @@
 # Valkey Benchmark Python
 
-Valkey Benchmark Python is a benchmark tool for Valkey. This tool allows developers to conduct performance testing in Python while maintaining consistent testing methodologies across different implementations. It supports various testing scenarios, including throughput testing, latency measurements, and custom command benchmarking.
+Valkey Benchmark Python is a benchmark tool for Valkey. This tool allows developers to conduct performance testing in Python. It supports various testing scenarios, including throughput testing, latency measurements, and custom command benchmarking.
 
 Key Advantages:
 
